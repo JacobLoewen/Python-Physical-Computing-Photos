@@ -19,7 +19,8 @@ This assignment uses an ultrasonic ranging module (HC-SR04), a buzzer, and an LE
 - NPN Transistor x1
 - Ultrasonic Ranging Module (HC-SR04)
 
-### Circuit Diagram: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_Circuit_Diagram.png)
+### Circuit Diagram: 
+![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_Circuit_Diagram.png)
 
 ### Photo of Breadboard: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_photo.jpg)
 
