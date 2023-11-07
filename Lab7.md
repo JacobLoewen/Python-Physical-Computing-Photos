@@ -110,7 +110,8 @@ This assignment uses a buzzer, an LCD1602, a servo motor, a neopixel, and an inf
 - Active Buzzer x1
 - Neopixel x1
 
-### Circuit Diagram: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_Circuit_Diagram.png)
+### Circuit Diagram: 
+![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_Circuit_Diagram.png)
 
 ### Photo of Breadboard: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_photo.jpg)
 
