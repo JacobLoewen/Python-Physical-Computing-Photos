@@ -3,13 +3,13 @@
 
 #### Monday, November 6, 2023
 
-##Project 1:
+## Project 1:
 
-###Description:
+### Description:
 
 This assignment uses an ultrasonic ranging module (HC-SR04), a buzzer, and an LED bar. When the ultrasonic ranging module detects an object as close, it will play a lower note and show less LEDs on the LED bar. When it detects an object as far, it will then play a higher note and show more LEDs on the LED bar.
 
-###List of Hardware Components:
+### List of Hardware Components:
 - Resistor 220Ω x10
 - Resistor 1kΩ x1
 - Jumper M/M x18
@@ -19,13 +19,13 @@ This assignment uses an ultrasonic ranging module (HC-SR04), a buzzer, and an LE
 - NPN Transistor x1
 - Ultrasonic Ranging Module (HC-SR04)
 
-###Circuit Diagram: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_Circuit_Diagram.png)
+### Circuit Diagram: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_Circuit_Diagram.png)
 
-###Photo of Breadboard: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_photo.jpg)
+### Photo of Breadboard: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_photo.jpg)
 
-###Breadboard View: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_Breadboard_View.png)
+### Breadboard View: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P1_Breadboard_View.png)
 
-###Source Code:
+### Source Code:
 
 ```
 
@@ -90,16 +90,16 @@ while True:
 
 ```
 
-###Video: 
+### Video: 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-JNq4csNfA8)](https://youtube.com/shorts/-JNq4csNfA8)
 
-##Project 2:
+## Project 2:
 
-###Description:
+### Description:
 
 This assignment uses a buzzer, an LCD1602, a servo motor, a neopixel, and an infrared remote. When one of the buttons 1-4 is pressed, it will activate one of the components listed above respectfully.
 
-###List of Hardware Components:
+### List of Hardware Components:
 - Resistor 1kΩ x1
 - Resistor 10kΩ x1
 - Jumper M/M x11
@@ -110,13 +110,13 @@ This assignment uses a buzzer, an LCD1602, a servo motor, a neopixel, and an inf
 - Active Buzzer x1
 - Neopixel x1
 
-###Circuit Diagram: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_Circuit_Diagram.png)
+### Circuit Diagram: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_Circuit_Diagram.png)
 
-###Photo of Breadboard: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_photo.jpg)
+### Photo of Breadboard: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_photo.jpg)
 
-###Breadboard View: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_Breadboard_View.png)
+### Breadboard View: ![alt text](https://raw.githubusercontent.com/JacobLoewen/Python-Physical-Computing-Photos/main/L7P2_Breadboard_View.png)
 
-###Source Code:
+### Source Code:
 
 ```
 
@@ -201,5 +201,5 @@ while True:
 
 ```
 
-###Video: 
+### Video: 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-JNq4csNfA8)](https://youtube.com/shorts/-JNq4csNfA8)
